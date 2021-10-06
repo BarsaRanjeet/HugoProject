@@ -1,6 +1,11 @@
 ---
 label: blog
 hide_body: false
-fields: []
+fields:
+- name: name
+  type: text
+  config:
+    required: false
+  label: Name
 pages:
 - content/post.md
