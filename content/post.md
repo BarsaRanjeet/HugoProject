@@ -1,5 +1,5 @@
 +++
 draft = true
 name = ""
-title: posts
+title = "posts"
 +++
